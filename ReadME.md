@@ -10,6 +10,8 @@
 
 - Game and gameday data will need to be temporarily stored (but where??)
 
+  - redis or memcached
+
 - How to determine player value?
   - Form
   - Fixture difficulty
