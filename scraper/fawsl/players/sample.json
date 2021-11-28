@@ -1,0 +1,21 @@
+[
+  {
+    "player_id": 1,
+    "name": {
+      "first_name": "Manuela",
+      "last_name": "Zinsberger",
+      "nickname": "Zinsberger"
+    },
+    "team": {
+      "team_id": 1,
+      "team_name": "Arsenal"
+    },
+    "position": "Goalkeeper",
+    "jersey_number": 1,
+    "country": "Austria",
+    "stats": {
+      "form": "Good",
+      "rating": 6.7
+    }
+  }
+]

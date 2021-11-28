@@ -33,7 +33,7 @@ def read_raw_file(path, file):
     data = r.json()
 
     for match in data:
-        if match["competition"]["competition_id"] == 37:
+        if match["competition"]["competition_id"] == 37 and match["season"]["season_id"] == 90:
             arr.append(match)
 
     return arr
@@ -47,7 +47,6 @@ def close():
 
 def main():
     titles_arr = get_match_data()
-    # sleep(2)
 
     for title in titles_arr:
         files_arr=get_match_data(title)
@@ -61,11 +60,6 @@ def main():
     close()
 
 main()
-
-
-# with open('data_file.json', 'w') as write_file:
-#   json.dump(r.json(), write_file, ensure_ascii=False)
-
 
 
 #   "competition_name" : "FA Women's Super League",

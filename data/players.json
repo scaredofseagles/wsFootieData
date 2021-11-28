@@ -1,0 +1,2067 @@
+[
+  {
+    "name": { "first_name": "Manuela", "last_name": "Zinsberger" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "Austria"
+  },
+  {
+    "name": { "first_name": "Lotte", "last_name": "Wubben-Moy" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Anna", "last_name": "Patten" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "4",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jennifer", "last_name": "Beattie" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Leah", "last_name": "Williamson" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Steph", "last_name": "Catley" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "7",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Jordan", "last_name": "Nobbs" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Beth", "last_name": "Mead" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kim", "last_name": "Little" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Vivianne", "last_name": "Miedema" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "Netherlands"
+  },
+  {
+    "name": { "first_name": "Frida", "last_name": "Maanum" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "12",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Lia", "last_name": "Wälti" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "13",
+    "country": "Switzerland"
+  },
+  {
+    "name": { "first_name": "Nikita", "last_name": "Parris" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "14",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Katie", "last_name": "McCabe" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "15",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Noëlle", "last_name": "Maritz" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "16",
+    "country": "Switzerland"
+  },
+  {
+    "name": { "first_name": "Lydia", "last_name": "Williams" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "18",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Caitlin", "last_name": "Foord" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "19",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Simone", "last_name": "Boye" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Defender",
+    "jersey_number": "20",
+    "country": "Denmark"
+  },
+  {
+    "name": { "first_name": "Malin", "last_name": "Gut" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "21",
+    "country": "Switzerland"
+  },
+  {
+    "name": { "first_name": "Viktoria", "last_name": "Schnaderbeck" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "22",
+    "country": "Austria"
+  },
+  {
+    "name": { "first_name": "Mana", "last_name": "Iwabuchi" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "23",
+    "country": "Japan"
+  },
+  {
+    "name": { "first_name": "Fran", "last_name": "Stenson" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "28",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Tobin", "last_name": "Heath" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "77",
+    "country": "United States"
+  },
+  {
+    "name": { "first_name": "Lisa", "last_name": "Evans" },
+    "team": { "team_name": "Arsenal W.F.C." },
+    "position": "Forward",
+    "jersey_number": "17",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Hannah", "last_name": "Hampton" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sarah", "last_name": "Mayling" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "2",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Meaghan", "last_name": "Sargeant" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Remi", "last_name": "Allen" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "4",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Elisha", "last_name": "N'Dow" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Anita", "last_name": "Asante" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Alisha", "last_name": "Lehmann" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "7",
+    "country": "Switzerland"
+  },
+  {
+    "name": { "first_name": "Chloe", "last_name": "Arthur" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Gielnik" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Ramona", "last_name": "Petzelberger" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "Germany"
+  },
+  {
+    "name": { "first_name": "Chantelle", "last_name": "Boye-Hlorkah" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jodie", "last_name": "Hutton" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Defender",
+    "jersey_number": "12",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Natalie", "last_name": "Haigh" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Defender",
+    "jersey_number": "15",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Olivia", "last_name": "McLoughlin" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "16",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Haywood" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "17",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Freya", "last_name": "Gregory" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "18",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Gemma", "last_name": "Davison" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "20",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Marisa", "last_name": "Ewers" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "21",
+    "country": "Germany"
+  },
+  {
+    "name": { "first_name": "Shania", "last_name": "Hayles" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "22",
+    "country": "Jamaica"
+  },
+  {
+    "name": { "first_name": "Sian", "last_name": "Rogers" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "23",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ruesha", "last_name": "Littlejohn" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Forward",
+    "jersey_number": "31",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Maz", "last_name": "Pacheco" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Defender",
+    "jersey_number": "33",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Syme" },
+    "team": { "team_name": "Aston Villa W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "14",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Marie", "last_name": "Hourihan" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Cecilie", "last_name": "Sandvej" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "2",
+    "country": "Denmark"
+  },
+  {
+    "name": { "first_name": "Harriet", "last_name": "Scott" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Louise", "last_name": "Quinn" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "4",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Lily", "last_name": "Simkin" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Veatriki", "last_name": "Sarri" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "7",
+    "country": "Greece"
+  },
+  {
+    "name": { "first_name": "Lisa", "last_name": "Robertson" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Sarah", "last_name": "Ewens" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Christie", "last_name": "Murray" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Jade", "last_name": "Pennock" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Libby", "last_name": "Smith" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "12",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jamie", "last_name": "Finn" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "14",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Lucy", "last_name": "Quinn" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "17",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Lucy", "last_name": "Whipp" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "19",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Ramsey" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "21",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Eleanor", "last_name": "Ryan-Doyle" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "22",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Whelan" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "23",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Rebecca", "last_name": "Holloway" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "25",
+    "country": "Northern Ireland"
+  },
+  {
+    "name": { "first_name": "Arabella", "last_name": "Suttie" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "26",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Gemma", "last_name": "Lawley" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "30",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Abbie", "last_name": "Cowie" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "32",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Louanne", "last_name": "Worsley" },
+    "team": { "team_name": "Birmingham City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "36",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Megan", "last_name": "Walsh" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Felicity", "last_name": "Gibbons" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Danielle", "last_name": "Bowman" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "4",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Danique", "last_name": "Kerkdijk" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "Netherlands"
+  },
+  {
+    "name": { "first_name": "Maya", "last_name": "Le" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Aileen", "last_name": "Whelan" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Forward",
+    "jersey_number": "7",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Megan", "last_name": "Connolly" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Lee", "last_name": "Geum-min" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "South Korea"
+  },
+  {
+    "name": { "first_name": "Inessa", "last_name": "Kaagman" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "Netherlands"
+  },
+  {
+    "name": { "first_name": "Rinsola", "last_name": "Babajide" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emma", "last_name": "Koivisto" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Defender",
+    "jersey_number": "12",
+    "country": "Finland"
+  },
+  {
+    "name": { "first_name": "Kayleigh", "last_name": "Green" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Forward",
+    "jersey_number": "15",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Ellie", "last_name": "Brazil" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Forward",
+    "jersey_number": "16",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Danielle", "last_name": "Carter" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Forward",
+    "jersey_number": "18",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Simpkins" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "19",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Victoria", "last_name": "Williams" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Defender",
+    "jersey_number": "20",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Katie", "last_name": "Robinson" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "22",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Maisie", "last_name": "Symonds" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "24",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Libby", "last_name": "Bance" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "32",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Fran", "last_name": "Stenson" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "—",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Katie", "last_name": "Startup" },
+    "team": { "team_name": "Brighton & Hove Albion W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "40",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Zećira", "last_name": "Mušović" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Aniek", "last_name": "Nouwen" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "Netherlands"
+  },
+  {
+    "name": { "first_name": "Millie", "last_name": "Bright" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "4",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Ingle" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "5",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Jessica", "last_name": "Carter" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "7",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Melanie", "last_name": "Leupolz" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "Germany"
+  },
+  {
+    "name": { "first_name": "Bethany", "last_name": "England" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ji", "last_name": "So-yun" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "South Korea"
+  },
+  {
+    "name": { "first_name": "Guro", "last_name": "Reiten" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "11",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Fran", "last_name": "Kirby" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "14",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Magdalena", "last_name": "Eriksson" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "16",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Jessie", "last_name": "Fleming" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "17",
+    "country": "Canada"
+  },
+  {
+    "name": { "first_name": "Maren", "last_name": "Mjelde" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "18",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Lauren", "last_name": "James" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "19",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sam", "last_name": "Kerr" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "20",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Niamh", "last_name": "Charles" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "21",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Erin", "last_name": "Cuthbert" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "22",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Pernille", "last_name": "Harder" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "23",
+    "country": "Denmark"
+  },
+  {
+    "name": { "first_name": "Drew", "last_name": "Spence" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "24",
+    "country": "Jamaica"
+  },
+  {
+    "name": { "first_name": "Jonna", "last_name": "Andersson" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "25",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Carly", "last_name": "Telford" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "28",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jorja", "last_name": "Fox" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "29",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ann-Katrin", "last_name": "Berger" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "30",
+    "country": "Germany"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Orman" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "32",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Aggie", "last_name": "Beever-Jones" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "33",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Charlotte", "last_name": "Wardlaw" },
+    "team": { "team_name": "Chelsea F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "34",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sandy", "last_name": "MacIver" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Danielle", "last_name": "Turner" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Rikke", "last_name": "Sevecke" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Defender",
+    "jersey_number": "4",
+    "country": "Denmark"
+  },
+  {
+    "name": { "first_name": "Nathalie", "last_name": "Björn" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Gabrielle", "last_name": "George" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kenza", "last_name": "Dali" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "7",
+    "country": "France"
+  },
+  {
+    "name": { "first_name": "Izzy", "last_name": "Christiansen" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Toni", "last_name": "Duggan" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Simone", "last_name": "Magill" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Forward",
+    "jersey_number": "10",
+    "country": "Northern Ireland"
+  },
+  {
+    "name": { "first_name": "Claire", "last_name": "Emslie" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Maria", "last_name": "Kirby" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Goalkeeper",
+    "jersey_number": "12",
+    "country": "United States"
+  },
+  {
+    "name": { "first_name": "Valérie", "last_name": "Gauvin" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Forward",
+    "jersey_number": "13",
+    "country": "France"
+  },
+  {
+    "name": { "first_name": "Nicoline", "last_name": "Sørensen" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Forward",
+    "jersey_number": "14",
+    "country": "Denmark"
+  },
+  {
+    "name": { "first_name": "Lucy", "last_name": "Graham" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "17",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Courtney", "last_name": "Brosnan" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Goalkeeper",
+    "jersey_number": "18",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Anna", "last_name": "Anvegård" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Forward",
+    "jersey_number": "19",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Megan", "last_name": "Finnigan" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "20",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Leonie", "last_name": "Maier" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Defender",
+    "jersey_number": "21",
+    "country": "Germany"
+  },
+  {
+    "name": { "first_name": "Aurora", "last_name": "Galli" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "22",
+    "country": "Italy"
+  },
+  {
+    "name": { "first_name": "Grace", "last_name": "Clinton" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "26",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Hanna", "last_name": "Bennison" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Midfielder",
+    "jersey_number": "28",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Poppy", "last_name": "Pattinson" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Defender",
+    "jersey_number": "30",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Cecilía", "last_name": "Rán" },
+    "team": { "team_name": "Everton F.C. (women)" },
+    "position": "Goalkeeper",
+    "jersey_number": "—",
+    "country": "Iceland"
+  },
+  {
+    "name": { "first_name": "Demi", "last_name": "Lambourne" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sam", "last_name": "Tierney" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Abbie", "last_name": "McManus" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Georgia", "last_name": "Brougham" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Natasha", "last_name": "Flint" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "7",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Molly", "last_name": "Pike" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jessica", "last_name": "Sigsworth" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Charlie", "last_name": "Devlin" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Lachante", "last_name": "Paul" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Esmee", "last_name": "de" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "14",
+    "country": "Netherlands"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Howard" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "15",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Paige", "last_name": "Bailey-Gayle" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "17",
+    "country": "Jamaica"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Barker" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "18",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Abbi", "last_name": "Grant" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "19",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Luana", "last_name": "Zajmi" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "20",
+    "country": "Slovenia"
+  },
+  {
+    "name": { "first_name": "Hannah", "last_name": "Cain" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "21",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Ashleigh", "last_name": "Plumptre" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "22",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jemma", "last_name": "Purfield" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "23",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Shannon", "last_name": "O'Brien" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "27",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kirstie", "last_name": "Levell" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "28",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jess", "last_name": "Camwell" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "33",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Connie", "last_name": "Scofield" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "44",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Harris" },
+    "team": { "team_name": "Leicester City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "48",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Karen", "last_name": "Bardsley" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Demi", "last_name": "Stokes" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Alex", "last_name": "Greenwood" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Steph", "last_name": "Houghton" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Laura", "last_name": "Coombs" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "7",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jill", "last_name": "Scott" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Chloe", "last_name": "Kelly" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Georgia", "last_name": "Stanway" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "10",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Janine", "last_name": "Beckie" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "Canada"
+  },
+  {
+    "name": { "first_name": "Filippa", "last_name": "Angeldal" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "12",
+    "country": "Sweden"
+  },
+  {
+    "name": { "first_name": "Hayley", "last_name": "Raso" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "13",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Esme", "last_name": "Morgan" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "14",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Lauren", "last_name": "Hemp" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "15",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jess", "last_name": "Park" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "16",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Vicky", "last_name": "Losada" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "17",
+    "country": "Spain"
+  },
+  {
+    "name": { "first_name": "Ellen", "last_name": "White" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "18",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Caroline", "last_name": "Weir" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "19",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Lucy", "last_name": "Bronze" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "20",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Khadija", "last_name": "Shaw" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Forward",
+    "jersey_number": "21",
+    "country": "Jamaica"
+  },
+  {
+    "name": { "first_name": "Keira", "last_name": "Walsh" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "24",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ellie", "last_name": "Roebuck" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "26",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ruby", "last_name": "Mace" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "30",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Alanna", "last_name": "Kennedy" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Defender",
+    "jersey_number": "33",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Karima", "last_name": "Benameur" },
+    "team": { "team_name": "Manchester City W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "34",
+    "country": "France"
+  },
+  {
+    "name": { "first_name": "Martha", "last_name": "Harris" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "2",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Maria", "last_name": "Thorisdottir" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Aoife", "last_name": "Mannion" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Hannah", "last_name": "Blundell" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ella", "last_name": "Toone" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "7",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Vilde", "last_name": "Bøe" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Martha", "last_name": "Thomas" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Katie", "last_name": "Zelem" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Leah", "last_name": "Galton" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "11",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Hayley", "last_name": "Ladd" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "12",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Ivana", "last_name": "Fuso" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "13",
+    "country": "Brazil"
+  },
+  {
+    "name": { "first_name": "Jackie", "last_name": "Groenen" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "14",
+    "country": "Netherlands"
+  },
+  {
+    "name": { "first_name": "Ona", "last_name": "Batlle" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "17",
+    "country": "Spain"
+  },
+  {
+    "name": { "first_name": "Kirsty", "last_name": "Hanson" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "18",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Kirsty", "last_name": "Smith" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "20",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Millie", "last_name": "Turner" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "21",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Alessia", "last_name": "Russo" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "23",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Carrie", "last_name": "Jones" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "24",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Mary", "last_name": "Earps" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "27",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Baggaley" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "32",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Lucy", "last_name": "Staniforth" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "37",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Ramsey" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Fran", "last_name": "Bentley" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "22",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sheffield", "last_name": "United" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "25",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Rebecca", "last_name": "May" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "26",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Annie", "last_name": "Hutchings" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "28",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Maria", "last_name": "Edwards" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "31",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Poppy", "last_name": "Lawson" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "33",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jessica", "last_name": "Simpson" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "36",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Karna", "last_name": "Solskjær" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "38",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Holly", "last_name": "Davenport" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "39",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Niamh", "last_name": "Murphy" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "40",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Izzy", "last_name": "Reidford" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "42",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Sophie", "last_name": "Hillyerd" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "44",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ella", "last_name": "Kinzett" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "45",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Alyssa", "last_name": "Aherne" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Forward",
+    "jersey_number": "46",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Polly", "last_name": "Watson" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "47",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Sasha", "last_name": "McTiffin" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "—",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emma", "last_name": "Taylor" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Defender",
+    "jersey_number": "—",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emily", "last_name": "Brough" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "—",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Blackburn", "last_name": "Rovers" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Midfielder",
+    "jersey_number": "30",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Blackburn", "last_name": "Rovers" },
+    "team": { "team_name": "Manchester United W.F.C." },
+    "position": "Goalkeeper",
+    "jersey_number": "—",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Grace", "last_name": "Moloney" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "Republic of Ireland"
+  },
+  {
+    "name": { "first_name": "Faye", "last_name": "Bryson" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "2",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Emma", "last_name": "Mitchell" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Chloe", "last_name": "Peplow" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "4",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Gemma", "last_name": "Evans" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Deanne", "last_name": "Rose" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "6",
+    "country": "Canada"
+  },
+  {
+    "name": { "first_name": "Jeon", "last_name": "Ga-eul" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "7",
+    "country": "South Korea"
+  },
+  {
+    "name": { "first_name": "Amalie", "last_name": "Eikeland" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "Norway"
+  },
+  {
+    "name": { "first_name": "Natasha", "last_name": "Dowie" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "10",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Natasha", "last_name": "Harding" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "11",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Emma", "last_name": "Harries" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "12",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Deanna", "last_name": "Cooper" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "14",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Brooke", "last_name": "Chaplen" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "19",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Rhiannon", "last_name": "Stewart" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "21",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Rachel", "last_name": "Rowe" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "23",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Justine", "last_name": "Vanhaevermaet" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "27",
+    "country": "Belgium"
+  },
+  {
+    "name": { "first_name": "Lily", "last_name": "Woodham" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "28",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Bethan", "last_name": "Roberts" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "31",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Jemma", "last_name": "Woodcock" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "32",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Leila", "last_name": "Lister" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "33",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ella", "last_name": "Wild" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "34",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Taylor", "last_name": "MacDonald" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "36",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Tia", "last_name": "Primmer" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "37",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Hannah", "last_name": "Poulter" },
+    "team": { "team_name": "Reading F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "41",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Tinja-Riikka", "last_name": "Korpela" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "Finland"
+  },
+  {
+    "name": { "first_name": "Esther", "last_name": "Morgan" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "2",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Shelina", "last_name": "Zadorsky" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "3",
+    "country": "Canada"
+  },
+  {
+    "name": { "first_name": "Josie", "last_name": "Green" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "4",
+    "country": "Wales"
+  },
+  {
+    "name": { "first_name": "Molly", "last_name": "Bartrip" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kerys", "last_name": "Harrop" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "6",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Jessica", "last_name": "Naz" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "7",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Cho", "last_name": "So-hyun" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "8",
+    "country": "South Korea"
+  },
+  {
+    "name": { "first_name": "Tang", "last_name": "Jiali" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "9",
+    "country": "China"
+  },
+  {
+    "name": { "first_name": "Rachel", "last_name": "Williams" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "10",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Ria", "last_name": "Percival" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "12",
+    "country": "New Zealand"
+  },
+  {
+    "name": { "first_name": "Asmita", "last_name": "Ale" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "13",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Angela", "last_name": "Addison" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "14",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kit", "last_name": "Graham" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "16",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kyah", "last_name": "Simon" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "17",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Chioma", "last_name": "Ubogagu" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "18",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Maéva", "last_name": "Clemaron" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "21",
+    "country": "France"
+  },
+  {
+    "name": { "first_name": "Rebecca", "last_name": "Spencer" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "22",
+    "country": "Jamaica"
+  },
+  {
+    "name": { "first_name": "Rosella", "last_name": "Ayane" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "23",
+    "country": "Morocco"
+  },
+  {
+    "name": { "first_name": "Ashleigh", "last_name": "Neville" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "29",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Eleanor", "last_name": "Heeps" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "—",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Gracie", "last_name": "Pearse" },
+    "team": { "team_name": "Tottenham Hotspur F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "—",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Mackenzie", "last_name": "Arnold" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "1",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Zaneta", "last_name": "Wyne" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "2",
+    "country": "United States"
+  },
+  {
+    "name": { "first_name": "Abbey-Leigh", "last_name": "Stringer" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "4",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Gilly", "last_name": "Flaherty" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "5",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Lisa", "last_name": "Evans" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "7",
+    "country": "Scotland"
+  },
+  {
+    "name": { "first_name": "Claudia", "last_name": "Walker" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "9",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Kateřina", "last_name": "Svitková" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "10",
+    "country": "Czech Republic"
+  },
+  {
+    "name": { "first_name": "Kate", "last_name": "Longhurst" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "12",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Tameka", "last_name": "Yallop" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "13",
+    "country": "Australia"
+  },
+  {
+    "name": { "first_name": "Yui", "last_name": "Hasegawa" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "14",
+    "country": "Japan"
+  },
+  {
+    "name": { "first_name": "Lucy", "last_name": "Parker" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "15",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Melisa", "last_name": "Filis" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "17",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Anna", "last_name": "Leat" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Goalkeeper",
+    "jersey_number": "18",
+    "country": "New Zealand"
+  },
+  {
+    "name": { "first_name": "Adriana", "last_name": "Leon" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Forward",
+    "jersey_number": "19",
+    "country": "Canada"
+  },
+  {
+    "name": { "first_name": "Lois", "last_name": "Joel" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "20",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Grace", "last_name": "Fisk" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "22",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Hawa", "last_name": "Cissoko" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "23",
+    "country": "France"
+  },
+  {
+    "name": { "first_name": "Brooke", "last_name": "Cairns" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "24",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Grace", "last_name": "Garrad" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "25",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Maisy", "last_name": "Barker" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Defender",
+    "jersey_number": "27",
+    "country": "England"
+  },
+  {
+    "name": { "first_name": "Dagný", "last_name": "Brynjarsdóttir" },
+    "team": { "team_name": "West Ham United F.C. Women" },
+    "position": "Midfielder",
+    "jersey_number": "32",
+    "country": "Iceland"
+  }
+]

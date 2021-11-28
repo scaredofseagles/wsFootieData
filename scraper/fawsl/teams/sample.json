@@ -1,0 +1,16 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "Arsenal",
+    "nickname": "ARS",
+    "location": "Borehamwood",
+    "stadium": "Meadow Park",
+    "current_standing": 3,
+    "head_coach": {
+      "first_name": "Jonas",
+      "last_name": "Eidevall",
+      "country": "Sweden"
+    },
+    "competitions": []
+  }
+]
