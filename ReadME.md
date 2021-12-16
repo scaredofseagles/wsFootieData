@@ -29,3 +29,9 @@
   - might use team name
 
 - Will need table standings (maybe)
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+- Save players and team data in json file that will be stored here on Github
+  - Data will rarely change (probably only during transfer windows and new seasons)
+  - maybe add a admin table on client that can change json files
